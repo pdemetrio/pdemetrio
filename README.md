@@ -6,7 +6,11 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+5511976377639)
 [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](paulodemetrio1982@gmail.com)
 
+<div >
+
 ![pdemetrio GitHub stats](https://github-readme-stats.vercel.app/api?username=pdemetrio&show_icons=true&theme=highcontrast)
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdemetrio&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
 
 ## Softwares que uso no meu dia a dia.
 
