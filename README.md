@@ -27,9 +27,9 @@
 
  ### Main skills:
 ![python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+![powerbi](https://img.shields.io/badge/-powerbi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117)&nbsp;
+![tableau](https://img.shields.io/badge/-tableau-0D1117?style=for-the-badge&logo=tableau&labelColor=0D1117)&nbsp;
+![mysql](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 
 ### Studying in this moment:
