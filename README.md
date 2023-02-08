@@ -30,6 +30,7 @@
 ![powerbi](https://img.shields.io/badge/-powerbi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117)&nbsp;
 ![tableau](https://img.shields.io/badge/-tableau-0D1117?style=for-the-badge&logo=tableau&labelColor=0D1117)&nbsp;
 ![mysql](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![microsoftexcel](https://img.shields.io/badge/-microsoft_excel-0D1117?style=for-the-badge&logo=microsoftexcel&labelColor=0D1117)&nbsp;
 
 
 ### Studying in this moment:
