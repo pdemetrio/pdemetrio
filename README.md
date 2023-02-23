@@ -26,8 +26,8 @@
 ![html5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
   
 <div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pdemetrio&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=c9d1d9&bg_color=0d1117" alt="Paulo Demetrio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdemetrio&layout=compact&hide_border=true&title_color=0000FF&text_color=0000FF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pdemetrio&show_icons=true&count_private=true&hide_border=true&title_color=FFFF00&icon_color=0000FF&text_color=c9d1d9&bg_color=0d1117" alt="Paulo Demetrio github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdemetrio&layout=compact&hide_border=true&title_color=FFFF00&text_color=FFFF00&bg_color=0d1117" />
 </div>
 
 <p align="left">
