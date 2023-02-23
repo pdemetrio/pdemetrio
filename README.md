@@ -12,7 +12,7 @@
  </div>
   
  ### Main skills:
-![python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=FFFF00)&nbsp;
 ![powerbi](https://img.shields.io/badge/-powerbi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117)&nbsp;
 ![tableau](https://img.shields.io/badge/-tableau-0D1117?style=for-the-badge&logo=tableau&labelColor=0D1117)&nbsp;
 ![mysql](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
