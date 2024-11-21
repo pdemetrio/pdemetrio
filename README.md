@@ -49,7 +49,7 @@
 
 ## 📈 Gráfico de Atividade
 
-[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=pdemetrio)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=pdemetrio&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 👀 Visitantes
 
