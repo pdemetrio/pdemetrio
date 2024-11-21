@@ -49,7 +49,7 @@
 
 ## 📈 Gráfico de Atividade
 
-[![Gráfico de Atividade](https://github-readme-activity-graph.cyclic.app/graph?username=pdemetrio&bg_color=000000&color=ffffff&line=0738ab&point=eeff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?pdemetrio=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 👀 Visitantes
 
