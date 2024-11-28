@@ -60,5 +60,6 @@
 ## 🐍 Contribuições
 
 ![snake animation](https://github.com/pdemetrio/pdemetrio/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<pdemetrio>/<pdemetrio>/blob/output/github-contribution-grid-snake2.svg)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=footer"/>
