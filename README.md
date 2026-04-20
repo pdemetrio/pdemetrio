@@ -54,11 +54,11 @@
 ## 👀 Visitantes
 
 <div align="center">
-    <img src="https://profile-counter.glitch.me/{pdemetrio}/count.svg" alt="Contador de Visitantes">
+ <img src="https://komarev.com/ghpvc/?username=pdemetrio&color=FFFF00&style=for-the-badge&label=VISITANTES" alt="Contador de Visitantes">
 </div>
 
 ## 🐍 Contribuições
 
-![snake animation](https://github.com/pdemetrio/pdemetrio/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://raw.githubusercontent.com/pdemetrio/pdemetrio/output/github-contribution-grid-snake.svg)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=footer"/>
