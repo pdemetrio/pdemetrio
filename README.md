@@ -44,7 +44,7 @@
 ## 🏆 Troféus do GitHub
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pdemetrio&theme=darkhub&row=1&column=6&margin-w=15&no-bg=true&no-frame=true" alt="Troféus do GitHub">
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=pdemetrio&theme=darkhub&row=1&column=6&margin-w=15&no-bg=true&no-frame=true" alt="Troféus do GitHub">
 </div>
 
 ## 📈 Gráfico de Atividade
