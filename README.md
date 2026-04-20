@@ -41,11 +41,10 @@
     <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdemetrio&layout=compact&hide_border=true&title_color=FFFF00&text_color=FFFF00&bg_color=0d1117" alt="Linguagens mais usadas">
 </div>
 
-## 🏆 Troféus do GitHub
 
 ## 🏆 Troféus do GitHub
 <div align="center">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=pdemetrio&theme=highcontrast&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub">
+<img src="https://github-profile-trophy.vercel.app/?username=pdemetrio&theme=highcontrast&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub">
 </div>
 
 ## 📈 Gráfico de Atividade
