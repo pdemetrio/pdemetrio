@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="https://twitter.com/paulodemetrio" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
     </a>
     <a href="mailto:paulodemetrio1982@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -41,10 +41,10 @@
     <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdemetrio&layout=compact&hide_border=true&title_color=FFFF00&text_color=FFFF00&bg_color=0d1117" alt="Linguagens mais usadas">
 </div>
 
-
 ## 🏆 Troféus do GitHub
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pdemetrio&theme=highcontrast&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub">
+    <img src="https://github-profile-trophy.vercel.app/?username=pdemetrio&theme=highcontrast&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&no-frame=true" alt="Troféus do GitHub">
 </div>
 
 ## 📈 Gráfico de Atividade
@@ -54,7 +54,7 @@
 ## 👀 Visitantes
 
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=pdemetrio&color=FFFF00&style=for-the-badge&label=VISITANTES" alt="Contador de Visitantes">
+    <img src="https://komarev.com/ghpvc/?username=pdemetrio&color=FFFF00&style=for-the-badge&label=VISITANTES" alt="Contador de Visitantes">
 </div>
 
 ## 🐍 Contribuições
@@ -62,6 +62,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pdemetrio/pdemetrio/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pdemetrio/pdemetrio/output/github-contribution-grid-snake.svg" />
-    
   <img alt="snake animation" src="https://raw.githubusercontent.com/pdemetrio/pdemetrio/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=footer"/>
