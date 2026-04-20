@@ -43,8 +43,9 @@
 
 ## 🏆 Troféus do GitHub
 
+## 🏆 Troféus do GitHub
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pdemetrio&theme=highcontrast&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub">
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=pdemetrio&theme=highcontrast&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub">
 </div>
 
 ## 📈 Gráfico de Atividade
@@ -59,6 +60,9 @@
 
 ## 🐍 Contribuições
 
-![snake animation](https://raw.githubusercontent.com/pdemetrio/pdemetrio/output/github-contribution-grid-snake.svg)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=footer"/>
+## 🐍 Contribuições
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pdemetrio/pdemetrio/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pdemetrio/pdemetrio/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/pdemetrio/pdemetrio/output/github-contribution-grid-snake.svg" />
+</picture>
