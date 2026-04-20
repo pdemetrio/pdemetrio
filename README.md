@@ -8,9 +8,9 @@
     <a href="https://www.instagram.com/paulodemetrio1982/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://twitter.com/paulodemetrio" target="_blank">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
-    </a>
+<a href="https://twitter.com/paulodemetrio" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=xdotcom&logoColor=white" alt="X (Twitter)">
+</a>
     <a href="mailto:paulodemetrio1982@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
@@ -44,7 +44,7 @@
 ## 🏆 Troféus do GitHub
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pdemetrio&theme=highcontrast&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&no-frame=true" alt="Troféus do GitHub">
+    <img src="https://github-profile-trophy.vercel.app/?username=pdemetrio&theme=darkhub&row=1&column=6&margin-w=15&no-bg=true&no-frame=true" alt="Troféus do GitHub">
 </div>
 
 ## 📈 Gráfico de Atividade
