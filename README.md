@@ -37,8 +37,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pdemetrio&show_icons=true&count_private=true&hide_border=true&title_color=FFFF00&icon_color=0000FF&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub">
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdemetrio&layout=compact&hide_border=true&title_color=FFFF00&text_color=FFFF00&bg_color=0d1117" alt="Linguagens mais usadas">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pdemetrio&theme=github_dark&title_color=FFFF00&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117&icon_color=0000FF" alt="Estatísticas do GitHub">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pdemetrio&theme=github_dark&title_color=FFFF00&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117&chart_color=FFFF00" alt="Linguagens mais usadas">
 </div>
 
 ## 🏆 Troféus do GitHub
@@ -49,7 +49,7 @@
 
 ## 📈 Gráfico de Atividade
 
-[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=pdemetrio&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de atividade](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdemetrio&theme=github_dark&title_color=FFFF00&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117&chart_color=FFFF00)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 👀 Visitantes
 
